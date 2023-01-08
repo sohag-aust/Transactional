@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9e4576-83b9-44be-8c54-83b0869ac35e" name="Changes" comment="readme added">
+    <list default="true" id="4d9e4576-83b9-44be-8c54-83b0869ac35e" name="Changes" comment="spring aop (proxy between client code to service/repository) aspect class added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/spring/config/ProductConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/spring/config/ProductConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/spring/repository/impl/ProductRepoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/spring/repository/impl/ProductRepoImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="spring-aop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673187372150</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="spring aop (proxy between client code to service/repository) aspect class added">
+      <created>1673199297803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673199297803</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +110,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="details of @Transactional" />
     <MESSAGE value="readme added" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme added" />
+    <MESSAGE value="spring aop (proxy between client code to service/repository) aspect class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring aop (proxy between client code to service/repository) aspect class added" />
   </component>
 </project>
