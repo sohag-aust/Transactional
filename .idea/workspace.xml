@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4d9e4576-83b9-44be-8c54-83b0869ac35e" name="Changes" comment="spring aop (proxy between client code to service/repository) aspect class added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/spring/repository/impl/ProductRepoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/spring/repository/impl/ProductRepoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/spring/aop/DataSourceConnectionAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/spring/aop/DataSourceConnectionAspect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
